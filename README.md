@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project is to 
+The goal of this project is to let people publish their blog posts and comment on other developers’ posts. 
 
 Screenshots of webpage:
 
