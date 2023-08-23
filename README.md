@@ -11,9 +11,9 @@ Screenshots of webpage:
 
 ##
 
-Link to the repository: 
+Link to the repository: https://github.com/YC937/TechBlog14
 
-Link to the deployed website: 
+Link to the deployed website: https://yctechblog-905e918ee575.herokuapp.com/ 
 
 ## License
 
