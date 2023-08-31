@@ -4,6 +4,11 @@
 
 The goal of this project is to let people publish their blog posts and comment on other developers’ posts. 
 
+## Installation 
+
+- Typing `npm i` into the terminal
+- MySQL is needed to run this application.
+
 Screenshots of webpage:
 
 <img src="./screenshots/1.png" width= 600px>
