@@ -1,5 +1,5 @@
 .background {
-    background-color: brown;
+    background-color: rgb(175, 208, 29);
 }
 
 .no-button {
@@ -19,13 +19,13 @@
 
   .blogpost {
     justify-content: center;
-    border: 1px solid #1a1a1a;
-    margin-left: 1.6rem;
-    margin-right: 1.6rem;
+    border: 1px solid #000000;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
   }
 
   .blogpost-title {
-    background-color: brown;
+    background-color: rgb(138, 198, 53);
   }
 
   .blogpost-title p {
